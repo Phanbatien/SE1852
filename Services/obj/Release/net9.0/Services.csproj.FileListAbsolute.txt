@@ -1,0 +1,14 @@
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\bin\Release\net9.0\Services.exe
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\bin\Release\net9.0\Services.deps.json
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\bin\Release\net9.0\Services.runtimeconfig.json
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\bin\Release\net9.0\Services.dll
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\bin\Release\net9.0\Services.pdb
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\obj\Release\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\obj\Release\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\obj\Release\net9.0\Services.AssemblyInfo.cs
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\obj\Release\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\obj\Release\net9.0\Services.dll
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\obj\Release\net9.0\refint\Services.dll
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\obj\Release\net9.0\Services.pdb
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\obj\Release\net9.0\Services.genruntimeconfig.cache
+C:\Users\DTV\source\repos\ProductManagementDemo\Services\obj\Release\net9.0\ref\Services.dll
